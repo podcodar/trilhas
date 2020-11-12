@@ -1,0 +1,8 @@
+* Seja bem vindo a PodCodar
+* Getting started
+* Roadmap
+  - programming basics
+    - Logic and Programming
+    - Language and Logic
+    - Programming language basic concepts
+  - web development
