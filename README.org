@@ -6,3 +6,10 @@
     - Language and Logic
     - Programming language basic concepts
   - web development
+* Roadmap para Desenvolvedor Web 2021
+  - Repositório com um Roadmap atualizado para quem quer seguir nas carreiras como desenvolvedor Front-end, Back-end ou DevOps.
+    - https://github.com/kamranahmedse/developer-roadmap
+* Dicas de Plataformas de Aprendizado
+  - Maratona Discover da Rocktseat
+    - Disponibiliza trilhas sobre assuntos que são a base do desenvolvimento web.
+    - Disponível em: https://rocketseat.com.br/
